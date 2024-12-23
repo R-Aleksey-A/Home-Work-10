@@ -19,9 +19,9 @@ public class Main {
         System.out.println();
         System.out.println("Задание-3");
         String fullNameSemyon = "Иванов Семён Семёнович";
-        String fullNameSemyon1= fullNameSemyon.replace('ё','е');
-        System.out.println("Данные Ф. И. О. сотрудника —"+fullNameSemyon1);
-        System.out.println("Данные Ф. И. О. сотрудника —"+fullNameSemyon.replace('ё','е'));
+        String fullNameSemyon1 = fullNameSemyon.replace('ё', 'е');
+        System.out.println("Данные Ф. И. О. сотрудника —" + fullNameSemyon1);
+        System.out.println("Данные Ф. И. О. сотрудника —" + fullNameSemyon.replace('ё', 'е'));
 
     }
 }
